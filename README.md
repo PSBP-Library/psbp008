@@ -28,10 +28,10 @@ import psbp.specification.function.{Function}
 import psbp.specification.dataStructure.{Product}
 
 trait ParallelComposition[
-    >-->[-_, +_]: [>-->[-_, +_]] =>> Function[>-->, &&]: SequentialComposition: [>-->[
-        -_,
-        +_
-    ]] =>> Product[>-->, &&],
+    >-->[-_, +_]
+      : [>-->[-_, +_]] =>> Function[>-->, &&]
+      : SequentialComposition
+      : [>-->[-_, +_]] =>> Product[>-->, &&],
     &&[+_, +_]
 ]:
 
