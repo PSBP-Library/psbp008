@@ -1,6 +1,6 @@
 # Program Specification Based Programming
 
-This is lesson 007 of a "Program Specification Based Programming" course.
+This is lesson 008 of a "Program Specification Based Programming" course.
 
 All comments are welcome at luc.duponcheel[at]gmail.com.
 
