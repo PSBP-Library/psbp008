@@ -6,7 +6,7 @@ All comments are welcome at luc.duponcheel[at]gmail.com.
 
 ## Introduction
 
-In lesson006 we have defined all `trait Program` members in terms of type `Active`, type `Tuple2` and type `Either` as a 
+In lesson007 we have defined all `trait Program` members in terms of type `Active`, type `Tuple2` and type `Either` as a 
 `given`.
 
 We have also defined all `trait Program` members in terms of type `Reactive`, type `CaseProduct` and type `EnumSum` as a
