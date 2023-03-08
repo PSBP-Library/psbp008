@@ -167,9 +167,9 @@ private[psbp] trait ParallelComposition[C[+_]: Computation, &&[+_, +_]]
   ): (Z && Y) => C[X && W] = ???
 ```
 
-### Updating `Program` implementation in term of `Computation`, function level `Product` and function level `Sum`.
+### Updating `Program` implementation in terms of `Computation`, function level `Product` and function level `Sum`.
 
-The implementation of `Program` in term of `Computation`, function level `Product` and function level `Sum`needs to be
+The implementation of `Program` in terms of `Computation`, function level `Product` and function level `Sum`needs to be
 updated accordingly.
 
 ```scala
